@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555485492 source:c:\users\user\desktop\c++\hw3_d4\main.cpp
+	<iostream>
+	<cstdlib>
+

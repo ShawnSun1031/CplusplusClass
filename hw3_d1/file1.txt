@@ -1,0 +1,5 @@
+The the number of days you spent in the hospital is 10
+The daily rate is 10
+the charges for hospital services is 10
+the charges for the hospital medication charges is 10
+The total charge you spent was 120$.

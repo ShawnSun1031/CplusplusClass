@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558621851 source:c:\users\user\desktop\c++\hw5.3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

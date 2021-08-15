@@ -1,0 +1,4 @@
+The the number of days you spent in the hospital is 0
+The daily rate is 0
+the charges for hospital services is 10
+the charges for the hospital medication charges is 10

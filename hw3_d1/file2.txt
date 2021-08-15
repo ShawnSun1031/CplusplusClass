@@ -1,0 +1,3 @@
+
+the charges for hospital services is 10
+the charges for the hospital medication charges is 10The total charge you spent was 20$.

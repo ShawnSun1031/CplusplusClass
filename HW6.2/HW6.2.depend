@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558614773 source:c:\users\user\desktop\c++\hw6.2\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

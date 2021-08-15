@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559970776 source:c:\users\user\desktop\c++\hw9.2\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+

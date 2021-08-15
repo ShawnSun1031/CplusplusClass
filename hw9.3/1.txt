@@ -1,0 +1,17 @@
+Becky Warren        30
+Bob Kain            25
+Geri Palmer         45
+Holly Gaddis        60
+Joe Looney          25
+Lynn Presnell       50
+Sam Wiggins         33
+Tim Haynes          30
+Becky Warren        30
+Bob Kain            25
+Dicky               100
+Geri Palmer         45
+Holly Gaddis        60
+Joe Looney          25
+Lynn Presnell       50
+Sam Wiggins         33
+Tim Haynes          30

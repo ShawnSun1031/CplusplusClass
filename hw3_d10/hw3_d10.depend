@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555598675 source:c:\users\user\desktop\c++\hw3_d10\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+
